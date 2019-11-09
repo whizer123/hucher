@@ -33,11 +33,11 @@ http://223.110.242.130:6610/cntv/live1/cctv-14/1.m3u8
 http://223.110.242.130:6610/cntv/live1/cctv-15/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg" group-title="",CGTN-记录频道
 http://223.110.242.130:6610/cntv/live1/cctv-news/1.m3u8
-{id:"",name:"汕头一
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg" group-title="",汕头一
 http://221.179.69.238:880/dx041.m3u8
-{id:"",name:"汕头二
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg" group-title="",汕头二
 http://221.179.69.238:880/dx2.m3u8
-{id:"",name:"汕头三
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg" group-title="",汕头三
 http://221.179.69.238:880/dx3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg" group-title="",浙江卫视
 http://223.110.242.130:6610/cntv/live1/zhejiangstv/1.m3u8
