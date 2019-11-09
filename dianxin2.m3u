@@ -29,7 +29,7 @@ http://125.210.152.20:9090/live/NXWS.m3u8
 http://125.210.152.20:9090/live/XJWS.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/bingtuantv.jpg" group-title="",兵团卫视
 http://125.210.152.20:9090/live/BTWS.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/nemenggutv.jpg" group-title="",内蒙古卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/neimenggutv.jpg" group-title="",内蒙古卫视
 http://125.210.152.20:9090/live/NMGWS.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/xizangtv.jpg" group-title="",西藏卫视
 http://125.210.152.20:9090/live/XZWS.m3u8
