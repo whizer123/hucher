@@ -117,3 +117,141 @@ http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221225908/index.m3u8
 http://223.110.242.130:6610/cntv/live1/jilinstv/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg" group-title="",江苏卫视
 http://223.110.242.130:6610/cntv/live1/jiangsustv/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",家庭理财
+http://223.110.245.139:80/PLTV/4/224/3221227011/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",网络棋牌频道
+http://223.110.245.139:80/PLTV/4/224/3221227024/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",CETV1-1
+http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221225622/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",CETV1-2
+http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221227355/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",NewTV搏击1
+http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221226656/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",NewTV搏击2
+http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221226803/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",NewTV海外剧场
+http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221225547/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",NewTV家庭剧场
+http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225549/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",NewTV健康有约
+http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225545/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",NewTV精品大剧FHD
+http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221225569/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",NewTV精品电影FHD
+http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225567/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",NewTV精品记录FHD
+http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221225557/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",NewTV明星大片FHD
+http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225535/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",东方财经
+http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221226033/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",都市剧场
+http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221226029/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",国学与家道HD
+http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226392/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",嘉佳卡通
+http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221226099/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",金鹰卡通
+http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",卡卡少儿
+http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221226097/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",南京教科
+http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221227194/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",上海纪实HD
+http://223.110.245.155/ott.js.chinamobile.com/PLTV/3/224/3221227420/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",生活频道
+http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227311/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",网路棋牌频道
+http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221227024/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",新娱乐
+http://223.110.245.141/ott.js.chinamobile.com/PLTV/3/224/3221227021/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",幸福彩
+http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221227447/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",炫动卡通1
+http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225694/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",炫动卡通2
+http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221226388/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",影视剧频道
+http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227372/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",置业频道
+http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227037/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",中国交通
+http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227027/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",中国气象频道
+http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227438/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",江西卫视
+http://223.110.242.130:6610/cntv/live1/jiangxistv/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",教育频道
+http://223.110.242.130:6610/cntv/live1/jiaoyutv/j1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",金鹰卡通
+http://223.110.242.130:6610/cntv/live1/jinyingkaton/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",辽宁卫视
+http://223.110.242.130:6610/cntv/live1/liaoningstv/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",内蒙古卫视
+http://223.110.242.130:6610/cntv/live1/neimenggustv/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",宁夏卫视
+http://223.110.242.130:6610/cntv/live1/ningxiastv/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",青海卫视
+http://223.110.242.130:6610/cntv/live1/qinghaistv/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",厦门卫视
+http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221226996/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",山东教育
+http://223.110.242.130:6610/cntv/live1/shandongjy/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",山东卫视
+http://223.110.242.130:6610/cntv/live1/shandongstv/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",山东卫视HD
+http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221226003/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",山东卫视HD
+http://223.110.243.171/PLTV/3/224/3221227258/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",山西卫视
+http://223.110.242.130:6610/cntv/live1/shanxistv/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",陕西卫视
+http://223.110.242.130:6610/cntv/live1/shanxi1stv/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",深圳卫视
+http://223.110.242.130:6610/cntv/live1/shenzhenstv/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",深圳卫视HD
+http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225997/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",深圳卫视HD
+http://223.110.243.171/PLTV/3/224/3221227217/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",四川卫视
+http://223.110.242.130:6610/cntv/live1/sichuanstv/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",四川卫视HD
+http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221225814/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",天津卫视
+http://223.110.242.130:6610/cntv/live1/tianjinstv/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",天津卫视FHD
+http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227212/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",西藏卫视
+http://223.110.242.130:6610/cntv/live1/xizangstv/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",新疆卫视
+http://223.110.242.130:6610/cntv/live1/xinjiangstv/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",炫动卡通
+http://223.110.242.130:6610/cntv/live1/xuandongkaton/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",CCTV5+FHD101
+http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227381/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",CCTV5+FHD102
+http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227465/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",CCTV5+FHD103
+http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227480/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",CCTV5FHD100
+http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221226362/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",CCTV5FHD103
+http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227401/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",CCTV5FHD104
+http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227468/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",CCTV5FHD2
+http://223.110.245.139:80/PLTV/4/224/3221227298/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",CCTV5FHD201
+http://223.110.245.170/PLTV/3/224/3221227166/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",弈坛春秋1
+http://223.110.245.139:80/PLTV/4/224/3221227031/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",云南卫视
+http://223.110.242.130:6610/cntv/live1/yunnanstv/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",浙江卫视
+http://223.110.242.130:6610/cntv/live1/zhejiangstv/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",浙江卫视FHD
+http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227393/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",浙江卫视HD
+http://223.110.243.173/PLTV/3/224/3221227215/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg group-title="",重庆卫视
+http://223.110.242.130:6610/cntv/live1/chongqingstv/1.m3u8
