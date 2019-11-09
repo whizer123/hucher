@@ -61,7 +61,7 @@ http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstok
 http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000050.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/henantv.jpg" group-title="",河南卫视
 http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000052.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv5.jpg" group-title="",陕西卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/sxtvs.jpg" group-title="",陕西卫视
 http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000056.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/guangxitv.jpg" group-title="",广西卫视
 http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000059.m3u8
