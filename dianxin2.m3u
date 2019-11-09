@@ -43,5 +43,3 @@ http://39.134.62.92:6610/000000001000/8183388942203045169/1.m3u8
 http://39.134.62.50:6610/000000001000/6117099895556651277/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg" group-title="",CCTV-8
 http://cctvcnch5c.v.wscdns.com/live/cctv8_2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title="",CCTV-1
-http://cctvcnch5c.v.wscdns.com/live/cctv1_2/index.m3u8
