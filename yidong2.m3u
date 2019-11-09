@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title="",CCTV1高清
-http://223.110.245.173:80/PLTV/4/224/3221227375/index.m3u8?UserName=18851042983&MAC=8C:6D:50:4C:91:52&OTTUserToken=18851042983-8C:6D:50:4C:91:52&accountinfo=yvxefADiHI1MXW5gaIZO5hiIlKSLiJtBXQdhumM1dH2IsIJmP1UxBAq03L3WxNlzfOIX59FPdAado7h9s5ZUS0%2BwWipdMTdABhAgmyZ6eCIX6MaJAHrUCauZm95broRlEddRo95lNXsf3o1WEjv9bw%3D%3D%3A20180401114131%2C18851042983%2C112.25.7.202%2C20180401114131%2CG_CCTV-1-HQ%2C1B4CEFC7EE6192335ED71DF86C50D75E%2C%2C0%2C1%2C-1%2C%2C2%2C2000007279%2C2%2C-3%2C2%2CEND&GuardEncType=2&servicetype=1&icpid=88888888&from=5&hms_devid=23
+http://223.110.245.173:80/PLTV/4/224/3221227375/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv2.jpg" group-title="",CCTV2
 http://183.207.249.13:80/PLTV/4/224/3221225881/index.m3u8?UserName=18851042983&MAC=8C:6D:50:4C:91:52&OTTUserToken=18851042983-8C:6D:50:4C:91:52&accountinfo=yvxefADiHI1MXW5gaIZO5hiIlKSLiJtBXQdhumM1dH2IsIJmP1UxBAq03L3WxNlzfOIX59FPdAado7h9s5ZUS0%2BwWipdMTdABhAgmyZ6eCIWM21IfpBsgFoJzR4Ey775UiaX75VtxTFOjI9%2FP81tMQ%3D%3D%3A20180401114618%2C18851042983%2C112.25.7.202%2C20180401114618%2CG_CCTV-2%2C1B4CEFC7EE6192335ED71DF86C50D75E%2C%2C0%2C1%2C-1%2C%2C2%2C2000007279%2C2%2C-3%2C2%2CEND&GuardEncType=2&servicetype=1&icpid=88888888&from=5&hms_devid=804
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv3.jpg" group-title="",CCTV3高清
