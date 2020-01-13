@@ -115,8 +115,8 @@ http://112.17.40.140/PLTV/88888888/224/3221226556/index.m3u8
 http://112.17.40.140/PLTV/88888888/224/3221226649/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title="",CCTV15
 http://112.17.40.140/PLTV/88888888/224/3221226645/index.m3u8
-	http://112.17.40.140/PLTV/88888888/224/3221226112/index.m3u8
-	#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title="",CCTV15"
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title="",CCTV15"
+http://112.17.40.140/PLTV/88888888/224/3221226112/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title="",CCTV高尔夫.网球
 http://112.17.40.140/PLTV/88888888/224/3221226402/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title="",CETV1
@@ -357,7 +357,6 @@ http://112.17.40.140/PLTV/88888888/224/3221226748/index.m3u8
 http://112.17.40.140/PLTV/88888888/224/3221226514/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title="",辽宁卫视高清
 http://112.17.40.140/PLTV/88888888/224/3221226148/index.m3u8
-	
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title="",旅游卫视
 http://112.17.40.140/PLTV/88888888/224/3221226116/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title="",内蒙古卫视
