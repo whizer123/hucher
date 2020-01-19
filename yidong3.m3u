@@ -22,7 +22,7 @@ http://live1.nty.tv189.com/tm-cctv11tm-800k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv12.jpg" group-title="",CCTV-12
 http://live1.nty.tv189.com/tm-cctv12tm-800k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv13.jpg" group-title="",CCTV-13
-http://live1.nty.tv189.com/tm-cctvnews-800k.m3u8
+http://live1.nty.tv189.com/tm-cctvnewstm-800k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv14.jpg" group-title="",CCTV-14
 http://live1.nty.tv189.com/tm-cctvchild-800k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv15.jpg" group-title="",CCTV-15
