@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://tp.nty.tv189.com/image/tmpl/2015/09/12/7001390847.jpg" group-title="",江苏卫视电信1
+http://live1.nty.tv189.com/tm-jswshd-800k.m3u8?sign=c09dd12e39bf4bad142e9f6636b4908a&qualityCode=&qualityid=2048&version=1&guid=b2e1d62c-1260-fa77-185e-2d5a81a0b6f5&app=115020310221&cookie=282aae27c45ead3c112596544276b26a&session=282aae27c45ead3c112596544276b26a&uid=104300116594616180309&uname=18916086862&time=20200119120237&videotype=1&cid=C8000000000000000001462425174782&cname=&cateid=&dev=000001&ep=1&os=30&ps=0099&clienttype=COL-AL10&appver=5.5.2.18&res=1080%2A2190&channelid=00433220&pid=1000000432&orderid=&nid=&cp=00000301&sp=00000014&ip=101.93.117.162&ipSign=880cdd6f9008d9f56463c25d94c30602&cdntoken=api_5e23d4dda1007&a=NkMldptKCms6T9D6agLPI3ZnqiDatzMbl%2FPqvHQzwsq6JGVYdZFs4w%3D%3D&pvv=1.2.1&playseek=1&tx=20200119120236&sx=12ff2beb37c5914f7f09bf462a2624a5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://tp.nty.tv189.com/image/tmpl/2015/09/12/7001390847.jpg" group-title="",江苏卫视电信
 http://live1.nty.tv189.com/tm-jswshd-800k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title="",BesTV超级体育
