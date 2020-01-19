@@ -3,9 +3,9 @@
 http://live1.nty.tv189.com/tm-cctv1-4000k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title="",CCTV-1
 http://live1.nty.tv189.com/tm-cctv1tm-800k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv2.jpg" group-title="",CCTV-2
-http://live1.nty.tv189.com/tm-cctv2-4000k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv2.jpg" group-title="",CCTV-2HD
+http://live1.nty.tv189.com/tm-cctv2-4000k.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv2.jpg" group-title="",CCTV-2
 http://live1.nty.tv189.com/tm-cctv2tm-800k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv3.jpg" group-title="",CCTV-3
 http://live1.nty.tv189.com/tm-cctv3tm-800k.m3u8
