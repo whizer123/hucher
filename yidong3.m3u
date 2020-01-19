@@ -24,9 +24,9 @@ http://live1.nty.tv189.com/tm-cctv12tm-800k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv13.jpg" group-title="",CCTV-13
 http://live1.nty.tv189.com/tm-cctvnewstm-800k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv14.jpg" group-title="",CCTV-14
-http://live1.nty.tv189.com/tm-cctvchild-800k.m3u8
+http://live1.nty.tv189.com/tm-cctvchildtm-800k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv15.jpg" group-title="",CCTV-15
-http://live1.nty.tv189.com/tm-cctvmusic-800k.m3u8
+http://live1.nty.tv189.com/tm-cctvmusictm-800k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/jiangsutv.jpg" group-title="",江苏卫视
 http://live1.nty.tv189.com/tm-jswshd-800k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/beijingtv.jpg" group-title="",北京卫视
