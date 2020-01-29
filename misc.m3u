@@ -6,4 +6,4 @@ http://223.110.243.139/PLTV/3/224/3221226923/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv6.jpg" group-title="",凤凰香港
 http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv6.jpg" group-title="",翡翠台
-http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&playtoken=ABCDEFGHIGK&programid=4200000195.m3u8
+http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=hls&accesstoken=R5E065037U31900104K773D55D4I853CE172PBM348F544V10400Z57EA5W15E44E79E96169F0&playtoken=ABCDEFGHIGK&programid=4200000140.m3u8
