@@ -5,3 +5,5 @@ http://211.137.115.110:8080/gitv_live/G_HUBEI-MD/G_HUBEI-MD.m3u8?p=GITV&area=SAX
 http://223.110.243.139/PLTV/3/224/3221226923/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv6.jpg" group-title="",凤凰香港
 http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv6.jpg" group-title="",翡翠台
+ttp://61.147.228.71/hdl0901.plures.net/onlive/9a8425ef5869e8873326e1e7f3d2cbba.flv?wshc_tag=0&wsts_tag=5e147b94&wsid_tag=73c946a3&wsiphost=ipdbm
