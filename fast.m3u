@@ -65,14 +65,12 @@ http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
 http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.zhiboba.org/tv/img/fhwsxgt.jpg" group-title="卫视",香港凤凰-2
 http://125.89.166.215/live-hwcdn.utvlive.top/live/a4e8cf74196e40959485a9ef4c532d02/6286b2bbb78341cd9fa92c7b37ccc03c-1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.zhiboba.org/tv/img/fhwsxgt.jpg" group-title="卫视",香港凤凰-3
+http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8?icpid=88888888&from=0&hms_devid=38044364
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/fhzxt.jpg" group-title="卫视",凤凰资讯
 http://117.169.120.138:8080/live/fhzixun/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/fhzxt.jpg" group-title="卫视",凤凰资讯-2
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/fhzxt.jpg" group-title="卫视",凤凰资讯-3
-http://yuniptvunql.chinayungu.cn:65530/live/fhzx/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/fhzwt.jpg" group-title="卫视",凤凰中文
-http://yuniptvunql.chinayungu.cn:65530/live/fhzw/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.zhiboba.org/tv/img/hks.jpg" group-title="卫视",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/anhuitv.jpg" group-title="卫视",安徽卫视
