@@ -142,6 +142,6 @@ http://39.134.168.91/PLTV/1/224/3221225536/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/heilongjiangtv.jpg" group-title="高清",黑龙江卫视HD
 http://39.134.168.91/PLTV/1/224/3221225538/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/hunantv.jpg" group-title="卫视",TEST
-http://101.71.255.229:6610/zjhs/2/10155/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+http://tcapp.cdn.hunancatv.com/live/XP_CCTV1HD.m3u8?auth_key=1612518317-38369b44ac6f4c3490d297ca8f3ed6cd-ORCNZ5DAXHTXI3Q0PYLUDH5TTNXQ-88318da1affa954c95ae5ce79926c989
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/hunantv.jpg" group-title="卫视",TEST2
 http://tcapp.cdn.hunancatv.com/live/XP_hnwsHD.m3u8?auth_key=1612517993-08fee1924a01488ab6c8c99e743f2818-ORCNZ5DAXHTXI3Q0PYLUDH5TTNXQ-cfdf20743de8ed9fbf29847627094b4f
