@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/hunantv.jpg" group-title="卫视",凤凰卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.zhiboba.org/zbbimg/fenghuangweishi.jpg" group-title="卫视",凤凰卫视
 http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/hunantv.jpg" group-title="卫视",香港凤凰
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.zhiboba.org/tv/img/fhwsxgt.jpg" group-title="卫视",香港凤凰
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/hunantv.jpg" group-title="卫视",香港卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.zhiboba.org/tv/img/hks.jpg" group-title="卫视",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/anhuitv.jpg" group-title="卫视",安徽卫视
 http://39.134.168.91/PLTV/1/224/3221225548/index.m3u8
@@ -31,9 +31,9 @@ http://39.134.168.91/PLTV/1/224/3221225624/index.m3u8
 http://39.134.168.91/PLTV/1/224/3221225544/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/hubeitv.jpg" group-title="高清",湖北卫视HD
 http://39.134.168.91/PLTV/1/224/3221225546/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/hunantv.jpg" group-title="卫视",湖南卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.zhiboba.org/zbbimg/hunanweishi.jpg" group-title="卫视",湖南卫视
 http://39.134.168.91/PLTV/1/224/3221225516/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/hunantv.jpg" group-title="高清",湖南卫视HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.zhiboba.org/zbbimg/hunanweishi.jpg" group-title="高清",湖南卫视HD
 http://39.134.168.91/PLTV/1/224/3221225518/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/jilintv.jpg" group-title="卫视",吉林卫视
 http://39.134.168.91/PLTV/1/224/3221225586/index.m3u8
