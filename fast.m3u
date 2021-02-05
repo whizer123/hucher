@@ -67,6 +67,8 @@ http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/fhzxt.jpg" group-title="卫视",凤凰资讯
 http://117.169.120.138:8080/live/fhzixun/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/fhzxt.jpg" group-title="卫视",凤凰资讯-2
+http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.zhiboba.org/tv/img/hks.jpg" group-title="卫视",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/anhuitv.jpg" group-title="卫视",安徽卫视
