@@ -127,7 +127,7 @@ http://39.134.168.91/PLTV/1/224/3221225628/index.m3u8
 http://39.134.168.91/PLTV/1/224/3221225532/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/shenzhentv.jpg" group-title="高清",深圳卫视HD
 http://101.71.255.229:6610/zjhs/2/10045/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/sichuangtv.jpg" group-title="高清",四川卫视HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/sichuantv.jpg" group-title="高清",四川卫视HD
 http://39.134.168.91/PLTV/1/224/3221225592/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/tianjintv.jpg" group-title="高清",天津卫视HD
 http://39.134.168.91/PLTV/1/224/3221225594/index.m3u8
