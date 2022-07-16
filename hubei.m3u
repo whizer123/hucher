@@ -81,3 +81,9 @@ http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000281303.m3u8
 http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000297803.m3u8
 #EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title=",安徽卫视HD
 http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000298003.m3u8
+#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title=",凤凰资讯HD
+http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
+#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title=",凤凰卫视中文台HD
+http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
+#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title=",凤凰卫视香港台HD
+http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
