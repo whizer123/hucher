@@ -1,83 +1,83 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title=",CCTV 1HD
 http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000210103.m3u8
-#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese” tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv2.jpg” group-title=",CCTV 2HD
+#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv2.jpg" group-title=",CCTV 2HD
 http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000203603.m3u8
-#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese” tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv3.jpg” group-title=",CCTV 3HD
+#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv3.jpg" group-title=",CCTV 3HD
 http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000203803.m3u8
-#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese” tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4.jpg” group-title=",CCTV 4HD
+#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4.jpg" group-title=",CCTV 4HD
 http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000204803.m3u8
-#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese” tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv5.jpg” group-title=",CCTV 5HD
+#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv5.jpg" group-title=",CCTV 5HD
 http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000205103.m3u8
-#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese” tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv5.jpg” group-title=",CCTV 5+HD
+#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv5.jpg" group-title=",CCTV 5+HD
 http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000204503.m3u8
-#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese” tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv6.jpg” group-title=",CCTV 6HD
+#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv6.jpg" group-title=",CCTV 6HD
 http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000203303.m3u8
-#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese” tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv7.jpg” group-title=",CCTV 7HD
+#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv7.jpg" group-title=",CCTV 7HD
 http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000510003.m3u8
-#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese” tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg” group-title=",CCTV 8HD
+#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8.jpg" group-title=",CCTV 8HD
 http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000203903.m3u8
-#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese” tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv9.jpg” group-title=",CCTV 9HD
+#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv9.jpg" group-title=",CCTV 9HD
 http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000499403.m3u8
-#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese” tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv10.jpg” group-title=",CCTV 10HD
+#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv10.jpg" group-title=",CCTV 10HD
 http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000203503.m3u8
-#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese” tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv11.jpg” group-title=",CCTV 11HD
+#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv11.jpg" group-title=",CCTV 11HD
 http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000204103.m3u8
-#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese” tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv12.jpg” group-title=",CCTV 12HD
+#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv12.jpg" group-title=",CCTV 12HD
 http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000202603.m3u8
-#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese” tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv13.jpg” group-title=",CCTV 13HD
+#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv13.jpg" group-title=",CCTV 13HD
 http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
-#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese” tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv14.jpg” group-title=",CCTV 14HD
+#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv14.jpg" group-title=",CCTV 14HD
 http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000204403.m3u8
-#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese” tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv15.jpg” group-title=",CCTV 15HD
+#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv15.jpg" group-title=",CCTV 15HD
 http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000205003.m3u8
-#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese” tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv17.jpg” group-title=",CCTV 17HD
+#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv17.jpg" group-title=",CCTV 17HD
 http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000204203.m3u8
-#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese” tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg” group-title=",CGTN
+#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title=",CGTN
 http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2001656803.m3u8
-#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese” tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg” group-title=",湖南卫视HD
+#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title=",湖南卫视HD
 http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000296203.m3u8
-#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese” tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg” group-title=",东方卫视HD
+#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title=",东方卫视HD
 http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000292403.m3u8
-#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese” tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg” group-title=",黑龙江卫视HD
+#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title=",黑龙江卫视HD
 http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000293903.m3u8
-#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese” tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg” group-title=",广东卫视HD
+#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title=",广东卫视HD
 http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000292703.m3u8
-#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese” tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg” group-title=",深圳卫视HD
+#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title=",深圳卫视HD
 http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000292203.m3u8
-#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese” tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg” group-title=",江苏卫视HD
+#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title=",江苏卫视HD
 http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000295603.m3u8
-#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese” tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg” group-title=",浙江卫视HD
+#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title=",浙江卫视HD
 http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000295503.m3u8
-#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese” tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg” group-title=",江苏卫视HD
+#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title=",江苏卫视HD
 http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000295603.m3u8
-#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese” tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg” group-title=",深圳卫视HD
+#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title=",深圳卫视HD
 http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000292203.m3u8
-#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese” tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg” group-title=",北京卫视HD
+#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title=",北京卫视HD
 http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000272103.m3u8
-#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese” tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg” group-title=",海南卫视HD
+#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title=",海南卫视HD
 http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000291503.m3u8
-#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese” tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg” group-title=",山东卫视HD
+#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title=",山东卫视HD
 http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000294803.m3u8
-#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese” tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg” group-title=",江西卫视HD
+#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title=",江西卫视HD
 http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000294103.m3u8
-#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese” tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg” group-title=",湖北卫视HD
+#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title=",湖北卫视HD
 http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000294503.m3u8
-#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese” tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg” group-title=",河南卫视HD
+#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title=",河南卫视HD
 http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000296103.m3u8
-#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese” tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg” group-title=",河北卫视HD
+#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title=",河北卫视HD
 http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000293403.m3u8
-#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese” tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg” group-title=",贵州卫视HD
+#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title=",贵州卫视HD
 http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000293303.m3u8
-#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese” tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg” group-title=",东南卫视HD
+#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title=",东南卫视HD
 http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000292503.m3u8
-#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese” tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg” group-title=",广西卫视HD
+#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title=",广西卫视HD
 http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000294203.m3u8
-#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese” tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg” group-title=",四川卫视HD
+#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title=",四川卫视HD
 http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000295003.m3u8
-#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese” tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg” group-title=",辽宁卫视HD
+#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title=",辽宁卫视HD
 http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000281303.m3u8
-#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese” tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg” group-title=",重庆卫视HD
+#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title=",重庆卫视HD
 http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000297803.m3u8
-#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese” tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg” group-title=",安徽卫视HD
+#EXTINF:-1 tvg-id=", tvg-name=", tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg" group-title=",安徽卫视HD
 http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000298003.m3u8
